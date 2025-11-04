@@ -87,6 +87,10 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.h-200px {
+  height: 200px !important;
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
